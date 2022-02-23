@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopping.github.io/static/css/main.66b8684d.chunk.css",
+    "main.js": "/shopping.github.io/static/js/main.48f4c4c8.chunk.js",
+    "main.js.map": "/shopping.github.io/static/js/main.48f4c4c8.chunk.js.map",
+    "runtime-main.js": "/shopping.github.io/static/js/runtime-main.800087a8.js",
+    "runtime-main.js.map": "/shopping.github.io/static/js/runtime-main.800087a8.js.map",
+    "static/js/2.ea66c30e.chunk.js": "/shopping.github.io/static/js/2.ea66c30e.chunk.js",
+    "static/js/2.ea66c30e.chunk.js.map": "/shopping.github.io/static/js/2.ea66c30e.chunk.js.map",
+    "static/js/3.3991d740.chunk.js": "/shopping.github.io/static/js/3.3991d740.chunk.js",
+    "static/js/3.3991d740.chunk.js.map": "/shopping.github.io/static/js/3.3991d740.chunk.js.map",
+    "index.html": "/shopping.github.io/index.html",
+    "static/css/main.66b8684d.chunk.css.map": "/shopping.github.io/static/css/main.66b8684d.chunk.css.map",
+    "static/js/2.ea66c30e.chunk.js.LICENSE.txt": "/shopping.github.io/static/js/2.ea66c30e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.800087a8.js",
+    "static/js/2.ea66c30e.chunk.js",
+    "static/css/main.66b8684d.chunk.css",
+    "static/js/main.48f4c4c8.chunk.js"
+  ]
+}
