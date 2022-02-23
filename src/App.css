@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+.shoppingList-container {
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cart-container {
+  margin-top: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.route-buttonCss {
+  color: white;
+}
+.search-field {
+  color: white;
+}
+.payment-summary-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100%;
+}
+.make-payment-button {
+  display: flex;
+  justify-content: right;
+  padding: 1em;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
